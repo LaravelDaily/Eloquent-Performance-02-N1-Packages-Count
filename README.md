@@ -1,4 +1,4 @@
-## Eloquent Performance Course: Demo of N+1 Queries and Debugbar
+## Eloquent Performance Course: N+1 Queries in Packages and Count
 
 One repository from my course about Eloquent Performance.
 
